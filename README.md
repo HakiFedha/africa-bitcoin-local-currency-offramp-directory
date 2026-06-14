@@ -19,7 +19,7 @@ KYC (Know Your Customer) represents the identity verification process required b
 * **KYC Required:** These platforms link your legal identity directly to your Bitcoin transactions. While useful for larger or routine institutional transfers, they create a permanent record worth evaluating before use.
 
 ## Directory Contents
-* [**Explore the Structured CSV Dataset**](./remittance_platforms.csv) — A filterable spreadsheet of active tools, regional coverage, and verification requirements.
+* [**Explore the Structured CSV Dataset**](offramp_platforms.csv) — A filterable spreadsheet of active tools, regional coverage, and verification requirements.
 
 ## Licensing
 This directory is open-source. The mapping data and documentation are available under the terms of the central [HakiFedha LICENSE](https://github.com/HakiFedha/.github/blob/main/profile/LICENSE).
