@@ -7,7 +7,7 @@ For civil society actors, journalists, and activists operating under restrictive
 ---
 
 > ⚠️ **Project Status: Work in Progress**
-> HakiFedha is a young project, and this directory is an evolving work in progress. The shifts rapidly. Platforms frequently update their operational status, geographical availability, and compliance policies. 
+> HakiFedha is a young project, and this directory is an evolving work in progress. The landscape shifts rapidly. Platforms frequently update their operational status, geographical availability, and compliance policies. 
 >
 > Community contributions, updates, and corrections are highly encouraged. Please submit updates via [hakifedha.org](https://hakifedha.org) or securely via email at `hakifedha@proton.me`.
 
