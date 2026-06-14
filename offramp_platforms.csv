@@ -1,0 +1,25 @@
+Country,Platform,Payout Method,KYC Required,Privacy & Operational Notes
+Burundi,MySatoshis,Lumicash,No,Direct mobile money exchange. No account or identity documents required.
+DR Congo,SGX Remit,Mobile Money,Yes,Instant delivery to mobile networks across multiple regions.
+Ghana,BitSpenda,Mobile Money,No,Highly accessible with no account creation required for quick conversions.
+Ghana,Cashwyre,Bank Transfer & Mobile Money,Yes,Supports direct utility bill payments and airtime purchases.
+Ghana,SGX Remit,Mobile Money,Yes,Instant delivery to local mobile networks.
+Kenya,Tando,M-Pesa,No,Connects wallets directly to M-Pesa. Useful for direct local payments without touching an exchange.
+Kenya,BitSpenda,Mobile Money,No,No account creation required; minimises transactional footprint.
+Kenya,SGX Remit,Mobile Money,Yes,Instant delivery to local mobile networks.
+Malawi,SGX Remit,Mobile Money,Yes,Instant delivery to local mobile networks.
+Nigeria,Tapnob,Bank Transfer,No,No KYC required for smaller amounts. Pays directly into local bank accounts.
+Nigeria,BitSpenda,Mobile Money,No,No account creation required; fast processing.
+Nigeria,Cashwyre,Bank Transfer & Mobile Money,Yes,Allows bill payments and airtime top-ups directly from a wallet.
+Nigeria,SGX Remit,Mobile Money,Yes,Instant delivery to local mobile networks.
+Rwanda,Cashwyre,Bank Transfer & Mobile Money,Yes,Supports local bill payments and direct fiat off-ramping.
+Senegal,Banxaas,Mobile Money,No,Covers Francophone West Africa. Provides financial autonomy in CFA franc regions.
+Côte d’Ivoire,Banxaas,Mobile Money,No,Covers Francophone West Africa. Provides financial autonomy in CFA franc regions.
+Cameroon,Banxaas,Mobile Money,No,Covers Francophone West Africa. Provides financial autonomy in CFA franc regions.
+Guinea,Banxaas,Mobile Money,No,Covers Francophone West Africa. Provides financial autonomy in CFA franc regions.
+South Africa,Swoop,Bank Transfer,Yes,Converts to Rand in real time. Supports direct third-party payments to suppliers or staff.
+Tanzania,ChapSmart,Mobile Money & Bills,No,Highly privacy-friendly. No email; phone number; or name required to operate.
+Uganda,SGX Remit,Mobile Money,Yes,Instant delivery to local mobile networks.
+Zambia,BitZed,Mobile Money,No,Converts to Zambian Kwacha via mobile money networks. Useful for local merchant payments.
+Zambia,Bit2Kwacha,Mobile Money,No,Direct conversion to Zambian Kwacha via mobile money.
+Zimbabwe,SGX Remit,Mobile Money,Yes,Instant delivery to local mobile networks.
