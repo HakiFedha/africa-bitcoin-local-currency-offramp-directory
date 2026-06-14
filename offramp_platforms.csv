@@ -17,9 +17,14 @@ Senegal,Banxaas,Mobile Money,No,Covers Francophone West Africa. Provides financi
 Côte d’Ivoire,Banxaas,Mobile Money,No,Covers Francophone West Africa. Provides financial autonomy in CFA franc regions.
 Cameroon,Banxaas,Mobile Money,No,Covers Francophone West Africa. Provides financial autonomy in CFA franc regions.
 Guinea,Banxaas,Mobile Money,No,Covers Francophone West Africa. Provides financial autonomy in CFA franc regions.
+South Africa,MoneyBadger,Retail Retailer Payments,No,Integrates Bitcoin into South Africa retail landscape at Pick n Pay; Shell; Clicks; Game; and DSTV.
 South Africa,Swoop,Bank Transfer,Yes,Converts to Rand in real time. Supports direct third-party payments to suppliers or staff.
+South Africa,Lightning Watts,Electricity Utility Bills,No,Allows users to pay for South African electricity bills directly over the Lightning Network.
 Tanzania,ChapSmart,Mobile Money & Bills,No,Highly privacy-friendly. No email; phone number; or name required to operate.
 Uganda,SGX Remit,Mobile Money,Yes,Instant delivery to local mobile networks.
 Zambia,BitZed,Mobile Money,No,Converts to Zambian Kwacha via mobile money networks. Useful for local merchant payments.
 Zambia,Bit2Kwacha,Mobile Money,No,Direct conversion to Zambian Kwacha via mobile money.
 Zimbabwe,SGX Remit,Mobile Money,Yes,Instant delivery to local mobile networks.
+Regional / Global,Bitrefill,Airtime; Data; eSIMs & Gift Cards,No,Turns Bitcoin into universal vouchers for major retailers. Useful for civil society to stay connected.
+Regional / Global,Sats2Data,Airtime & Mobile Data,No,Instant mobile top-ups in under 60 seconds by entering a mobile number.
+Regional / Global,2Fiat,Virtual Prepaid Mastercard,No,Provides virtual cards compatible with Apple Pay and Google Pay for instant fiat spending.
