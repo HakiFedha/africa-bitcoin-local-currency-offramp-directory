@@ -2,7 +2,7 @@
 
 A practical directory of Africa-focused platforms that allow users to convert Bitcoin directly to local currency. These tools facilitate direct payments into local payment systems, mobile money networks, bank accounts, or for utility bills and airtime without requiring a traditional centralised exchange. 
 
-For civil society actors, journalists, and activists operating under restrictive financial environments, these platforms function like a digital bureau de change: you send Bitcoin, and the recipient or your own wallet receives local currency—often without requiring a traditional bank account.
+For civil society actors, journalists, and activists operating under restrictive financial environments, these platforms function like a digital bureau de change: you send Bitcoin, and the recipient or your own wallet receives local currency, often without requiring a traditional bank account. If you are paying for goods and services, the recipient does not need to understand Bitcoin. 
 
 ---
 
@@ -14,7 +14,7 @@ For civil society actors, journalists, and activists operating under restrictive
 ---
 
 ## A Note on KYC & Privacy
-KYC (Know Your Customer) represents the identity verification process required by many financial platforms. For human rights defenders and activists who need to protect their financial privacy, the KYC status of an off-ramp tool is critical:
+KYC (Know Your Customer) represents the identity verification process required by many financial platforms. For human rights defenders, activists, and other civil society actors who need to protect their financial privacy, the KYC status of an off-ramp tool is critical:
 * **No KYC:** These tools allow conversions without submitting identity documents, minimising your digital footprint and protecting your operational security.
 * **KYC Required:** These platforms link your legal identity directly to your Bitcoin transactions. While useful for larger or routine institutional transfers, they create a permanent record worth evaluating before use.
 
