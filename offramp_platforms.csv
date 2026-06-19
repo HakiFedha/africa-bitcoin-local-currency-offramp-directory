@@ -16,7 +16,11 @@ Nigeria,Cashwyre,https://cashwyre.com/,Yes,Convert Bitcoin to local currency via
 Nigeria,Mavapay,https://app.mavapay.money/,Yes,Convert Bitcoin to Naira and bank accounts
 Nigeria,SGX Remit,https://www.sgxremit.com/,Yes,Send Bitcoin to mobile money
 Rwanda,Cashwyre,https://cashwyre.com/,Yes,Convert Bitcoin to local currency via bank transfer or mobile money
-"Senegal, Côte d'Ivoire, Cameroon, Guinea",Banxaas,https://banxaas.com/,No,Convert Bitcoin to mobile money across Francophone West Africa
+Benin,Bitcoin Flash,https://flashapp.me/,No (email and phone required),Send Bitcoin to CFA Francs via mobile money including MTN MoMo and Celtiis
+Burkina Faso,Bitcoin Flash,https://flashapp.me/,No (email and phone required),Send Bitcoin to CFA Francs via mobile money including Orange Money and Moov Africa
+Côte d'Ivoire,Bitcoin Flash,https://flashapp.me/,No (email and phone required),Send Bitcoin to CFA Francs via mobile money including Orange Money MTN and Moov Africa
+Togo,Bitcoin Flash,https://flashapp.me/,No (email and phone required),Send Bitcoin to CFA Francs via mobile money including Orange Money and Moov Africa
+"Senegal, Côte d'Ivoire, Cameroon, Guinea",Banxaas,https://banxaas.com/,No,Privacy-focused Bitcoin to mobile money conversion across Francophone West Africa with no account registration
 South Africa,MoneyBadger,https://moneybadger.co.za/,No,Spend Bitcoin at merchants and retailers
 South Africa,Swoop,https://myswoop.co.za/btc-to-zar/,Yes,Convert Bitcoin to Rand and pay bank accounts
 South Africa,Lightning Watts,https://watts.cryptoconvert.co.za/#/,No,Pay electricity bills using Bitcoin over Lightning
