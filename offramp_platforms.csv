@@ -8,6 +8,7 @@ Ghana,Mavapay,https://app.mavapay.money/,Yes,Convert Bitcoin to Ghanaian Cedis a
 Kenya,Tando,https://tando.me/,No,Connect Bitcoin and Lightning wallets directly to M-Pesa
 Kenya,BitSpenda,https://www.bitspenda.app/,No,Send Bitcoin directly to mobile money
 Kenya,Mavapay,https://app.mavapay.money/,Yes,Convert Bitcoin to Kenyan Shillings via M-Pesa or mobile money
+Kenya,Blitz Wallet,https://blitz-wallet.com/,No,Send Bitcoin directly to M-Pesa mobile money accounts
 Kenya,SGX Remit,https://www.sgxremit.com/,Yes,Send Bitcoin to mobile money
 Malawi,SGX Remit,https://www.sgxremit.com/,Yes,Send Bitcoin to mobile money
 Nigeria,Tapnob,https://www.tapnob.com/,No (small amounts),Send Bitcoin and receive Naira in a bank account
@@ -29,6 +30,7 @@ Tanzania,ChapSmart,https://chapsmart.com/,No,Bitcoin remittances and bill paymen
 Uganda,SGX Remit,https://www.sgxremit.com/,Yes,Send Bitcoin to mobile money
 Zambia,BitZed,https://bitzed.xyz/,No,Convert Bitcoin to Zambian Kwacha via mobile money
 Zambia,Bit2Kwacha,https://bit2kwacha.info/,No,Convert Bitcoin to Zambian Kwacha via mobile money
+Zambia,Blitz Wallet,https://blitz-wallet.com/,No,Send Bitcoin directly to mobile money accounts
 Zimbabwe,SGX Remit,https://www.sgxremit.com/,Yes,Send Bitcoin to mobile money
 Global,Bitrefill,https://www.bitrefill.com/,Varies,Buy airtime data and gift cards with Bitcoin
 Global,Sats2Data,https://sats2data.com/,No,Convert Bitcoin to mobile data
